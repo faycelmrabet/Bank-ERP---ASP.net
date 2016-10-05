@@ -1,0 +1,162 @@
+﻿
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/Shared/_Layoutfront.cshtml";
+}
+<div id="navbar" class="navbar-collapse collapse">
+    <ul id="top-menu" class="nav navbar-nav navbar-right main_nav">
+        <li><a href="@Url.Content("~/Home")">Home</a></li>
+        <li><a href="@Url.Content("~/TrainingSession")">Training Session</a></li>
+        <li><a href="@Url.Content("~/Training")">Training</a></li>
+        <li><a href="@Url.Content("~/Trainer")">Trainer</a></li>
+        <li><a href="@Url.Content("~/SendMail")">Mail</a></li>
+        <li><a href="@Url.Content("~/SendSms/sms")">Sms</a></li>
+        <li><a href="@Url.Content("~/Materiel")">Material</a></li>
+        <li><a href="@Url.Content("~/Chart")">Statistique&Reporting</a></li>
+        <li class="active"><a href="@Url.Content("~/Contrat")">Contracts</a></li>
+        <li><a href="@Url.Content("~/Offre")">Offer</a></li>
+        <li><a href="@Url.Content("~/Employee")">Employee</a></li>
+        <li><a href="@Url.Content("~/Candidature")">Candidacy</a></li>
+        @Html.Partial("_LoginPartial")
+
+    </ul>
+</div><!--/.nav-collapse -->
+                </div>
+            </nav>
+        </div>
+<!-- END MENU -->
+<!-- BEGIN SLIDER AREA-->
+        </header>
+<!--=========== End HEADER SECTION ================-->
+<!--=========== BEGIN ABOUT SECTION ================-->
+<div style="margin-top:50px">
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <!-- START CONTACT HEADING -->
+                    <div class="heading">
+                        <h2 class="wow fadeInLeftBig">Agency Location</h2>
+                        <p>Our Branch are around the country you can check here the map that allow you to join our branch. </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- BEGAIN CONTACT CONTENT -->
+                <div class="contact_content">
+                    <!-- BEGAIN CONTACT FORM -->
+                    <!-- BEGAIN CONTACT MAP -->
+                    <div class="col-lg-7 col-md-7 col-sm-7">
+
+                        <!-- BEGAIN GOOGLE MAP -->
+
+
+                        <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+                            <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+                            <script type="text/javascript">
+                                var someStringValue = '@ViewBag.someStringValue';
+                                var map;
+                                function initialize() {
+
+
+                                    geocoder = new google.maps.Geocoder();
+                                    var latlng = new google.maps.LatLng(-34.397, 150.644);
+                                    var myOptions = {
+                                        zoom: 8,
+                                        center: latlng,
+                                        mapTypeId: google.maps.MapTypeId.ROADMAP
+                                    };
+
+                                    map = new google.maps.Map(document.getElementById("map"), myOptions);
+                                    geocoder.geocode({ 'address': someStringValue }, function (results, status) {
+                                        if (status == google.maps.GeocoderStatus.OK) {
+                                            map.setCenter(results[0].geometry.location);
+                                            var marker = new google.maps.Marker({
+                                                map: map,
+                                                position: results[0].geometry.location
+                                            });
+
+                                        }
+                                    });
+                                    var marker = new google.maps.Marker
+                                    (
+                                        {
+                                            position: new google.maps.LatLng(-34.397, 150.644),
+                                            map: map,
+                                            title: 'Click me'
+                                        }
+                                    );
+                                    var infowindow = new google.maps.InfoWindow({
+                                        content: 'Location info:<br/>Country Name:<br/>LatLng:'
+                                    });
+                                    google.maps.event.addListener(marker, 'click', function () {
+                                        // Calling the open method of the infoWindow
+                                        infowindow.open(map, marker);
+                                    });
+                                }
+                                window.onload = initialize;
+                            </script>
+
+
+                            <div id="map" style="height: 350px; width: 650px; top: 10px; left: 50px; position: center;"></div>
+
+                        </asp:Content>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <!-- SKILLS COUNTER OVERLAY -->
+
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+
+                <div class="contact_feature">
+                    <!-- BEGAIN CALL US FEATURE -->
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <div class="single_contact_feaured wow fadeInUp">
+                            <i class="fa fa-phone"></i>
+                            <h4>Call Us</h4>
+                            <p>(+216)71555222</p>
+                        </div>
+                    </div>
+                    <!-- BEGAIN CALL US FEATURE -->
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <div class="single_contact_feaured wow fadeInUp">
+                            <i class="fa fa-envelope-o"></i>
+                            <h4>Email Address</h4>
+                            <p>AllSafe@gmail.com</p>
+                        </div>
+                    </div>
+                    <!-- BEGAIN CALL US FEATURE -->
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <div class="single_contact_feaured wow fadeInUp">
+                            <i class="fa fa-map-marker"></i>
+                            <h4>Office Location</h4>
+                            <p>ESPRIT</p>
+                        </div>
+                    </div>
+                    <!-- BEGAIN CALL US FEATURE -->
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <div class="single_contact_feaured wow fadeInUp">
+                            <i class="fa fa-clock-o"></i>
+                            <h4>Working Hours</h4>
+                            <p>Monday-Friday 9.00-21.00</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+    <hr />
+    @ViewBag.urii

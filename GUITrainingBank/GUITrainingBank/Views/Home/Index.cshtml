@@ -1,0 +1,147 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layoutfront.cshtml";
+}
+
+<div id="navbar" class="navbar-collapse collapse">
+    <ul id="top-menu" class="nav navbar-nav navbar-right main_nav">
+        <li class="active"><a href="@Url.Content("~/Home")">Home</a></li>
+        <li><a href="@Url.Content("~/TrainingSession")">Training Session</a></li>
+        <li><a href="@Url.Content("~/Training")">Training</a></li>
+        <li><a href="@Url.Content("~/Trainer")">Trainer</a></li>
+        <li><a href="@Url.Content("~/SendMail")">Mail</a></li>
+        <li><a href="@Url.Content("~/SendSms/sms")">Sms</a></li>
+        <li><a href="@Url.Content("~/Materiel")">Material</a></li>
+        <li><a href="@Url.Content("~/Chart")">Statistique&Reporting</a></li>
+        <li><a href="@Url.Content("~/Contrat")">Contracts</a></li>
+        <li><a href="@Url.Content("~/Offre")">Offer</a></li>
+        <li><a href="@Url.Content("~/Employee")">Employee</a></li>
+        <li><a href="@Url.Content("~/Candidature")">Candidacy</a></li>
+        @Html.Partial("_LoginPartial")
+
+    </ul>
+</div><!--/.nav-collapse -->
+                </div>
+            </nav>
+        </div>
+<!-- END MENU -->
+<!-- BEGIN SLIDER AREA-->
+        </header>
+<!--=========== End HEADER SECTION ================-->
+<!--=========== BEGIN ABOUT SECTION ================-->
+<div style="margin-top:50px">
+    <header id="header">
+        <div class="slider_area">
+            <!-- BEGIN SLIDER-->
+            <div id="slides">
+                <ul class="slides-container">
+
+                    <!-- THE FIRST SLIDE-->
+                    <!-- THE SECOND SLIDE-->
+                    <!-- THE THIRD SLIDE-->
+                    <li>
+                        <!-- THIRD SLIDE OVERLAY -->
+                        <div class="slider_overlay"></div>
+                        <!-- THIRD SLIDE MAIN IMAGE -->
+                        <img src="@Url.Content("~/Content/frontoffice/")img/full-slider/full-slide1.jpg" alt="img">
+                        <!-- THIRD SLIDE CAPTION-->
+                        <div class="slider_caption">
+                            <h2>we'll change your Idea of Banking Systems</h2>
+                            <p>
+                                Welcome To AllSafe Bank
+                            </p>
+                            <a href="#" class="slider_btn">Who We are</a>
+                        </div>
+                    </li>
+                </ul>
+                <!-- BEGAIN SLIDER NAVIGATION -->
+                <!-- NEXT IN THE SLIDE -->
+
+            </div>
+            <!-- END SLIDER-->
+        </div>
+        <!-- END SLIDER AREA -->
+        <section id="service">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        <!-- BEGAIN SERVICE HEADING -->
+                        <div class="heading">
+                            <h2 class="wow fadeInLeftBig">Our Services</h2>
+                            <p>Our banking system offers a variation of services to Human ressource Manager. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        <!-- BEGAIN SERVICE  -->
+                        <div class="service_area">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <!-- BEGAIN SINGLE SERVICE -->
+                                    <div class="single_service wow fadeInLeft">
+                                        <div class="service_iconarea">
+                                            <span class="fa fa-line-chart service_icon"></span>
+                                        </div>
+                                        <h3 class="service_title">Reporting & Statistics</h3>
+                                        <p>A human ressource manager can manage material and visualise reportings about type of materials.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <!-- BEGAIN SINGLE SERVICE -->
+                                    <div class="single_service wow fadeInRight">
+                                        <div class="service_iconarea">
+                                            <span class="fa fa-suitcase service_icon"></span>
+                                        </div>
+                                        <h3 class="service_title">Employees & Their Contracts</h3>
+                                        <p>A human ressource manager can manage employees ,He can also manage contracts and visualise maps to lacalise branchs of bank.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <!-- BEGAIN SINGLE SERVICE -->
+                                    <div class="single_service wow fadeInLeft">
+                                        <div class="service_iconarea">
+                                            <span class="fa fa-eraser service_icon"></span>
+                                        </div>
+                                        <h3 class="service_title">Entrepreneurship</h3>
+                                        <p>A human ressource manager can manage Trainings & Training Session & trainers in order to form employees.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <!-- BEGAIN SINGLE SERVICE -->
+                                    <div class="single_service wow fadeInRight">
+                                        <div class="service_iconarea">
+                                            <span class="fa fa-paper-plane service_icon"></span>
+                                        </div>
+                                        <h3 class="service_title">Offers</h3>
+                                        <p>A human ressource manager can create offers in order to form recruit new employees.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <!-- BEGAIN SINGLE SERVICE -->
+                                    <div class="single_service wow fadeInLeft">
+                                        <div class="service_iconarea">
+                                            <span class="fa fa-envelope-o service_icon"></span>
+                                        </div>
+                                        <h3 class="service_title">Email & SMS</h3>
+                                        <p>A human ressource manager can send Mails and Sms to other HR , employees and candidates.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <!-- BEGAIN SINGLE SERVICE -->
+                                    <div class="single_service wow fadeInRight">
+                                        <div class="service_iconarea">
+                                            <span class="fa fa-support service_icon"></span>
+                                        </div>
+                                        <h3 class="service_title">Candidacies</h3>
+                                        <p>A candidate can dispose his candidacy that allow him to have a chance to join our team</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </header>

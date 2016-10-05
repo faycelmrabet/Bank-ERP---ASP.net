@@ -1,0 +1,187 @@
+﻿@model Data.Models.trainingsession
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layoutfront.cshtml";
+}
+<div id="navbar" class="navbar-collapse collapse">
+    <ul id="top-menu" class="nav navbar-nav navbar-right main_nav">
+        <li><a href="@Url.Content("~/Home")">Home</a></li>
+        <li class="active"><a href="@Url.Content("~/TrainingSession")">Training Session</a></li>
+        <li><a href="@Url.Content("~/Training")">Training</a></li>
+        <li><a href="@Url.Content("~/Trainer")">Trainer</a></li>
+        <li><a href="@Url.Content("~/SendMail")">Mail</a></li>
+        <li><a href="@Url.Content("~/SendSms/sms")">Sms</a></li>
+        <li><a href="@Url.Content("~/Materiel")">Material</a></li>
+        <li><a href="@Url.Content("~/Chart")">Statistique&Reporting</a></li>
+        <li><a href="@Url.Content("~/Contrat")">Contracts</a></li>
+        <li><a href="@Url.Content("~/Offre")">Offer</a></li>
+        <li><a href="@Url.Content("~/Employee")">Employee</a></li>
+        <li><a href="@Url.Content("~/Candidature")">Candidacy</a></li>
+        @Html.Partial("_LoginPartial")
+
+    </ul>
+</div><!--/.nav-collapse -->
+                </div>
+            </nav>
+        </div>
+<!-- END MENU -->
+<!-- BEGIN SLIDER AREA-->
+        </header>
+<!--=========== End HEADER SECTION ================-->
+<!--=========== BEGIN ABOUT SECTION ================-->
+<div style="margin-top:50px">
+    <section id="works">
+        <!-- BEGAIN MILESTONE WORSK SECTION -->
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <div class="counter_section" style="
+    padding-top: 0px;">
+                    <!-- SKILLS COUNTER OVERLAY -->
+                    <div class="slider_overlay"></div>
+                    <div class="container">
+                        <div class="counter_area">
+                            <div class="heading">
+                                <h3 class="wow fadeInLeft"> Edit Training Session</h3>
+
+                            </div>
+
+
+
+                            @using (Html.BeginForm())
+                            {
+                                @Html.AntiForgeryToken()
+
+                                <div class="form-horizontal">
+                                    <h4></h4>
+                                    <hr />
+                                    <p class="count-text ">
+                                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                        <div class="form-group">
+
+                                            <div class="hidden">
+
+                                                @Html.EditorFor(model => model.idTS, new { htmlAttributes = new { @class = "form-control" } })
+                                                @Html.ValidationMessageFor(model => model.idTS, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                    <p class="count-text ">
+                                        <label class="control-label col-md-2">Cost</label>
+                                        <div class="col-md-10">
+                                            @Html.EditorFor(model => model.cout, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.cout, "", new { @class = "text-danger" })
+                                        </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <p class="count-text ">
+                                        <label class="control-label col-md-2">Start Date</label>
+                                        <div class="col-md-10">
+                                            @Html.EditorFor(model => model.dateDebut, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.dateDebut, "", new { @class = "text-danger" })
+                                        </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <p class="count-text ">
+                                        <label class="control-label col-md-2">End Date</label>
+                                        <div class="col-md-10">
+                                            @Html.EditorFor(model => model.dateFin, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.dateFin, "", new { @class = "text-danger" })
+                                        </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <p class="count-text ">
+                                        @Html.LabelFor(model => model.description, htmlAttributes: new { @class = "control-label col-md-2" })
+                                        <div class="col-md-10">
+                                            @Html.EditorFor(model => model.description, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.description, "", new { @class = "text-danger" })
+                                        </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <p class="count-text ">
+                                        @Html.LabelFor(model => model.objective, htmlAttributes: new { @class = "control-label col-md-2" })
+                                        <div class="col-md-10">
+                                            @Html.EditorFor(model => model.objective, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.objective, "", new { @class = "text-danger" })
+                                        </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-md-offset-2 col-md-10">
+                                        <input type="submit" value="Save" class="btn btn-default" />
+                                    </div>
+                                </div>
+                            </div>
+                            }
+
+                            <div>
+                                @Html.ActionLink("Back to List", "Index")
+                            </div>
+
+                            <!-- START SINGLE COUNTER-->
+                            <div class="col-lg-3 col-md-3 col-sm-3">
+                                <div class="counter wow fadeInUp">
+                                    <i class="fa fa-users fa-2x"></i>
+                                    <h2 class="timer count-title" id="count-number" data-to="940" data-speed="1500">400</h2>
+                                    <p class="count-text ">Clients</p>
+                                </div>
+                            </div>
+                            <!-- START SINGLE COUNTER-->
+                            <div class="col-lg-3 col-md-3 col-sm-3">
+                                <div class="counter wow fadeInUp">
+                                    <i class="fa fa-tasks fa-2x"></i>
+                                    <h2 class="timer count-title" id="count-number2" data-to="1750" data-speed="1500">300</h2>
+                                    <p class="count-text ">Projects</p>
+                                </div>
+                            </div>
+                            <!-- START SINGLE COUNTER-->
+                            <div class="col-lg-3 col-md-3 col-sm-3">
+                                <div class="counter wow fadeInUp">
+                                    <i class="fa fa-coffee fa-2x"></i>
+                                    <h2 class="timer count-title" id="count-number3" data-to="300" data-speed="1500">200</h2>
+                                    <p class="count-text ">Cup Of Coffee</p>
+                                </div>
+                            </div>
+                            <!-- START SINGLE COUNTER-->
+                            <div class="col-lg-3 col-md-3 col-sm-3">
+                                <div class="counter wow fadeInUp">
+                                    <i class="fa fa-bullhorn fa-2x"></i>
+                                    <h2 class="timer count-title" id="count-number4" data-to="875" data-speed="1500">100</h2>
+                                    <p class="count-text ">Subscribers</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+    <br />
+    <br />
+    <!-- END MILESTONE WORSK SECTION -->
+    <!-- BEGAIN FORTFOLIO WORSK SECTION -->
+    <div class="row">
+        <div class="portfolio_area">
+            <!-- BEGAIN PORTFOLIO HEADER -->
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <div class="container">
+                        <div class="heading">
+                            <h2 class="wow fadeInLeftBig">Entrepreneurship Quotes</h2>
+                            <p>Through using our memory to its fullest we can unlock the vast reservoir of human potential.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- END PORTFOLIO HEADER -->
+            <!-- BEGAIN PORTFOLIO GALLERY -->
+          
+            <!-- END PORTFOLIO GALLERY -->
+        </div>
+    </div>
+    <!-- END FORTFOLIO WORSK SECTION -->
+</section>

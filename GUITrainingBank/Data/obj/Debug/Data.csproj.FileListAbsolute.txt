@@ -1,0 +1,90 @@
+C:\Users\ji\Desktop\GUITrainingBank\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\Data.dll.config
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\Data.dll
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\Data.pdb
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\Domain.dll
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\EntityFramework.dll
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\MySql.Data.dll
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\Domain.pdb
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\EntityFramework.xml
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ji\Desktop\GUITrainingBank\Data\obj\Debug\Data.dll
+C:\Users\ji\Desktop\GUITrainingBank\Data\obj\Debug\Data.pdb
+C:\Users\ji\Desktop\GUITrainingBank\Data\obj\Debug\Data.Migrations.Initial.resources
+C:\Users\ji\Desktop\GUITrainingBank\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ji\Desktop\GUITrainingBank\Data\obj\Debug\Data.Migrations.Identity.resources
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\MySql.AspNet.Identity.dll
+C:\Users\ji\Desktop\GUITrainingBank\Data\bin\Debug\MySql.AspNet.Identity.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Data.dll.config
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Data.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Data.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Domain.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\EntityFramework.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\log4net.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\MySql.AspNet.Identity.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\MySql.Data.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\PayPal.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Rotativa.Core.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Rotativa.MVC.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Domain.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\EntityFramework.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\log4net.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\MySql.AspNet.Identity.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\bin\Debug\PayPal.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\obj\Debug\Data.Migrations.Initial.resources
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\obj\Debug\Data.Migrations.Identity.resources
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\obj\Debug\Data.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Data\obj\Debug\Data.pdb
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Data.dll.config
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Data.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Data.pdb
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Domain.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\EntityFramework.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\log4net.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\MySql.AspNet.Identity.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\MySql.Data.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\MySql.Fabric.Plugin.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Newtonsoft.Json.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\PayPal.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Rotativa.Core.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Rotativa.MVC.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\System.Web.Mvc.dll
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Domain.pdb
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\EntityFramework.xml
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\log4net.xml
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\MySql.AspNet.Identity.pdb
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\Newtonsoft.Json.xml
+E:\semer\pi\GUITrainingBank\Data\bin\Debug\PayPal.xml
+E:\semer\pi\GUITrainingBank\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\semer\pi\GUITrainingBank\Data\obj\Debug\Data.Migrations.Initial.resources
+E:\semer\pi\GUITrainingBank\Data\obj\Debug\Data.Migrations.Identity.resources
+E:\semer\pi\GUITrainingBank\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+E:\semer\pi\GUITrainingBank\Data\obj\Debug\Data.dll
+E:\semer\pi\GUITrainingBank\Data\obj\Debug\Data.pdb

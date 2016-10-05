@@ -1,0 +1,157 @@
+﻿@model Data.Models.materiel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layoutfront.cshtml";
+}
+<div id="navbar" class="navbar-collapse collapse">
+    <ul id="top-menu" class="nav navbar-nav navbar-right main_nav">
+        <li><a href="@Url.Content("~/Home")">Home</a></li>
+        <li><a href="@Url.Content("~/TrainingSession")">Training Session</a></li>
+        <li><a href="@Url.Content("~/Training")">Training</a></li>
+        <li><a href="@Url.Content("~/Trainer")">Trainer</a></li>
+        <li><a href="@Url.Content("~/SendMail")">Mail</a></li>
+        <li><a href="@Url.Content("~/SendSms/sms")">Sms</a></li>
+        <li><a href="@Url.Content("~/Materiel")">Material</a></li>
+        <li class="active"><a href="@Url.Content("~/Chart")">Statistique&Reporting</a></li>
+        <li><a href="@Url.Content("~/Contrat")">Contracts</a></li>
+        <li><a href="@Url.Content("~/Offre")">Offer</a></li>
+        <li><a href="@Url.Content("~/Employee")">Employee</a></li>
+        <li><a href="@Url.Content("~/Candidature")">Candidacy</a></li>
+        @Html.Partial("_LoginPartial")
+
+    </ul>
+</div><!--/.nav-collapse -->
+                </div>
+            </nav>
+        </div>
+<!-- END MENU -->
+<!-- BEGIN SLIDER AREA-->
+        </header>
+<!--=========== End HEADER SECTION ================-->
+<!--=========== BEGIN ABOUT SECTION ================-->
+<div style="margin-top:50px">
+    <section id="blog" style="height:1000px;background-image:url(/Content/frontoffice/img/Finance.jpg);background-size:cover">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <!-- START BLOG HEADING -->
+                    <div class="heading">
+                        <h2 class="wow fadeInLeftBig">Statistics Of Materials</h2>
+                    </div>
+                </div>
+
+
+                @if (ViewBag.PercentageMateriels["materiels"] != 0)
+            {
+
+                    <div id="echart_pie" style="height:600px;"></div>
+                }
+
+                else
+                {
+
+                    <h1 class="text-center">No Data</h1>
+
+                }
+                @if (ViewBag.PercentageMateriels["materiels"] != 0)
+            {
+                    <script>
+                        // Shares Types Pie Chart
+
+                        var myChart = echarts.init(document.getElementById('echart_pie'), theme);
+                        myChart.setOption({
+                            tooltip: {
+                                trigger: 'item',
+                                formatter: "{a} <br/>{b} : {c} ({d}%)"
+                            },
+                            legend: {
+                                //orient: 'vertical',
+                                //x: 'left',
+                                x: 'center',
+                                y: 'bottom',
+                                data: ['PC', 'IMPRIMANTE', 'FAX']
+                            },
+                            toolbox: {
+                                show: true,
+                                feature: {
+                                    magicType: {
+                                        show: true,
+                                        type: ['pie', 'funnel'],
+                                        option: {
+                                            funnel: {
+                                                x: '25%',
+                                                width: '50%',
+                                                funnelAlign: 'left',
+                                                max: 1548
+                                            }
+                                        }
+                                    },
+                                    restore: {
+                                        show: true
+                                    },
+                                    saveAsImage: {
+                                        show: true
+                                    }
+                                }
+                            },
+                            calculable: false,
+                            series: [
+                                {
+                                    name: 'Shares',
+                                    type: 'pie',
+                                    radius: '55%',
+                                    center: ['50%', '48%'], //left,top
+                                    data: [
+                                        {
+                                            value: @ViewBag.PercentageMateriels["pc"],
+                                            name: 'PC'
+                                        },
+                                        {
+                                            value: @ViewBag.PercentageMateriels["imprimante"],
+                                            name: 'IMPRIMANTE'
+                                        },
+                                        {
+                                            value: @ViewBag.PercentageMateriels["fax"],
+                                            name: 'FAX'
+                                        }
+                                    ]
+                                }
+                            ]
+                        });
+
+
+
+                        var dataStyle = {
+                            normal: {
+                                label: {
+                                    show: false
+                                },
+                                labelLine: {
+                                    show: false
+                                }
+                            }
+                        };
+                        var placeHolderStyle = {
+                            normal: {
+                                color: 'rgba(0,0,0,0)',
+                                label: {
+                                    show: false
+                                },
+                                labelLine: {
+                                    show: false
+                                }
+                            },
+                            emphasis: {
+                                color: 'rgba(0,0,0,0)'
+                            }
+                        };
+                    </script>
+        <!-- /dashbord linegraph -->
+
+
+                }
+            </div>
+        </div>
+
+    </section>

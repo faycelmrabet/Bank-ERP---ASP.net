@@ -1,0 +1,81 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layoutfront.cshtml";
+}
+<div id="navbar" class="navbar-collapse collapse">
+    <ul id="top-menu" class="nav navbar-nav navbar-right main_nav">
+        <li><a href="@Url.Content("~/Home")">Home</a></li>
+        <li><a href="@Url.Content("~/TrainingSession")">Training Session</a></li>
+        <li><a href="@Url.Content("~/Training")">Training</a></li>
+        <li><a href="@Url.Content("~/Trainer")">Trainer</a></li>
+        <li><a href="@Url.Content("~/SendMail")">Mail</a></li>
+        <li class="active"><a href="@Url.Content("~/SendSms/sms")">Sms</a></li>
+        <li><a href="@Url.Content("~/Materiel")">Material</a></li>
+        <li><a href="@Url.Content("~/Chart")">Statistique&Reporting</a></li>
+        <li><a href="@Url.Content("~/Contrat")">Contracts</a></li>
+        <li><a href="@Url.Content("~/Offre")">Offer</a></li>
+        <li><a href="@Url.Content("~/Employee")">Employee</a></li>
+        <li><a href="@Url.Content("~/Candidature")">Candidacy</a></li>
+        @Html.Partial("_LoginPartial")
+
+    </ul>
+</div><!--/.nav-collapse -->
+                </div>
+            </nav>
+        </div>
+<!-- END MENU -->
+<!-- BEGIN SLIDER AREA-->
+        </header>
+<!--=========== End HEADER SECTION ================-->
+<!--=========== BEGIN ABOUT SECTION ================-->
+<div style="margin-top:50px">
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <div class="about_area">
+                        <!-- START ABOUT HEADING -->
+                        <div class="heading">
+                            <h2 class="wow fadeInLeftBig">SMS</h2>
+                        </div>
+
+                        <!-- START ABOUT CONTENT -->
+                        <div class="about_content">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6 col-sm-12">
+
+                                    <div class="panel-group" id="accordion">
+                                        <!-- START SINGLE FEATURED ITEAM #1-->
+                                        <div class="panel panel-default wow fadeInLeft">
+
+                                            <div id="collapseOne" class="panel-collapse collapse in">
+                                                <div class="panel-body">
+                                                    <section id="loginForm">
+                                                        @using (Html.BeginForm())
+                                                        {
+                                                            <label>Message</label> <input type="text" name="message" /><br /><br /><br />
+                                                            <label>Number</label><input type="text" name="number" /><br /><br /><br />
+                                                            <button type="submit" value="submit">Send message</button>
+                                                        }
+                                                    </section>
+
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- START SINGLE FEATURED ITEAM #2 -->
+                                        <!-- START SINGLE FEATURED ITEAM #3 -->
+                                        <!-- START SINGLE FEATURED ITEAM #4 -->
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- BEGAIN SKILLS  -->
+        <!-- END SKILLS  -->
+    </section>

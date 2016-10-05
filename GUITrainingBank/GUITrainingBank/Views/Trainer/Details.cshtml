@@ -1,0 +1,183 @@
+﻿@model Data.Models.utilisateur
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layoutfront.cshtml";
+}
+<div id="navbar" class="navbar-collapse collapse">
+    <ul id="top-menu" class="nav navbar-nav navbar-right main_nav">
+        <li><a href="@Url.Content("~/Home")">Home</a></li>
+        <li><a href="@Url.Content("~/TrainingSession")">Training Session</a></li>
+        <li><a href="@Url.Content("~/Training")">Training</a></li>
+        <li class="active"><a href="@Url.Content("~/Trainer")">Trainer</a></li>
+        <li><a href="@Url.Content("~/SendMail")">Mail</a></li>
+        <li><a href="@Url.Content("~/SendSms/sms")">Sms</a></li>
+        <li><a href="@Url.Content("~/Materiel")">Material</a></li>
+        <li><a href="@Url.Content("~/Chart")">Statistique&Reporting</a></li>
+        <li><a href="@Url.Content("~/Contrat")">Contracts</a></li>
+        <li><a href="@Url.Content("~/Offre")">Offer</a></li>
+        <li><a href="@Url.Content("~/Employee")">Employee</a></li>
+        <li><a href="@Url.Content("~/Candidature")">Candidacy</a></li>
+        @Html.Partial("_LoginPartial")
+
+    </ul>
+</div><!--/.nav-collapse -->
+                </div>
+            </nav>
+        </div>
+<!-- END MENU -->
+<!-- BEGIN SLIDER AREA-->
+        </header>
+<!--=========== End HEADER SECTION ================-->
+<!--=========== BEGIN ABOUT SECTION ================-->
+<div style="margin-top:50px">
+    <section id="works">
+        <!-- BEGAIN MILESTONE WORSK SECTION -->
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <div class="counter_section" style="
+    padding-top: 0px;">
+                    <!-- SKILLS COUNTER OVERLAY -->
+                    <div class="slider_overlay"></div>
+                    <div class="container">
+                        <div class="counter_area">
+                            <div class="heading">
+                                <h3 class="wow fadeInLeft"> Details Of Trainers</h3>
+
+                            </div>
+                            <div>
+                                <p class="btn btn-info ">
+                                    @Html.ActionLink("Back to List", "Index")
+                                </p>
+                                <hr />
+                                <dl class="dl-horizontal">
+
+
+                                    <dt>
+                                        <p class="count-text ">          @Html.DisplayNameFor(model => model.firstName)
+                                    </dt>
+
+                                    <dd>
+                                        <p class="count-text ">         @Html.DisplayFor(model => model.firstName)
+                                    </dd>
+
+                                    <dt>
+                                        <p class="count-text ">           @Html.DisplayNameFor(model => model.lastName)
+                                    </dt>
+
+                                    <dd>
+                                        <p class="count-text ">              @Html.DisplayFor(model => model.lastName)
+                                    </dd>
+
+                                    <dt>
+                                        <p class="count-text ">         @Html.DisplayNameFor(model => model.mail)
+                                    </dt>
+
+                                    <dd>
+                                        <p class="count-text ">       @Html.DisplayFor(model => model.mail)
+                                    </dd>
+                                    <dt>
+                                        <p class="count-text ">          <label>Address</label>
+                                    </dt>
+
+                                    <dd>
+                                        <p class="count-text ">         @Html.DisplayFor(model => model.Adress)
+                                    </dd>
+
+                                    <dt>
+                                        <p class="count-text ">    <label>Phone</label>
+                                    </dt>
+
+                                    <dd>
+                                        <p class="count-text ">        @Html.DisplayFor(model => model.tel)
+                                    </dd>
+                                    <dt>
+                                        <p class="count-text ">                <label>Skills</label>
+                                    </dt>
+
+                                    <dd>
+                                        <p class="count-text ">         @Html.DisplayFor(model => model.competence)
+                                    </dd>
+
+                                    <dt>
+                                        <p class="count-text ">          <label>Origin Country</label>
+                                    </dt>
+
+                                    <dd>
+                                        <p class="count-text ">           @Html.DisplayFor(model => model.paysOrigine)
+                                    </dd>
+
+                                    <dt>
+                                        <p class="count-text ">             <label>Salary</label>
+                                    </dt>
+
+                                    <dd>
+                                        <p class="count-text ">             @Html.DisplayFor(model => model.salaireParSession)
+                                    </dd>
+
+                                </dl>
+                            </div>
+                            <p>
+                                @Html.ActionLink("Edit", "Edit", new { id = Model.idUser }, new { @class = "btn btn-info" }) |
+
+                            </p>
+                            <!-- START SINGLE COUNTER-->
+                            <div class="col-lg-3 col-md-3 col-sm-3">
+                                <div class="counter wow fadeInUp">
+                                    <i class="fa fa-users fa-2x"></i>
+                                    <h2 class="timer count-title" id="count-number" data-to="940" data-speed="1500">400</h2>
+                                    <p class="count-text ">Clients</p>
+                                </div>
+                            </div>
+                            <!-- START SINGLE COUNTER-->
+                            <div class="col-lg-3 col-md-3 col-sm-3">
+                                <div class="counter wow fadeInUp">
+                                    <i class="fa fa-tasks fa-2x"></i>
+                                    <h2 class="timer count-title" id="count-number2" data-to="1750" data-speed="1500">300</h2>
+                                    <p class="count-text ">Projects</p>
+                                </div>
+                            </div>
+                            <!-- START SINGLE COUNTER-->
+                            <div class="col-lg-3 col-md-3 col-sm-3">
+                                <div class="counter wow fadeInUp">
+                                    <i class="fa fa-coffee fa-2x"></i>
+                                    <h2 class="timer count-title" id="count-number3" data-to="300" data-speed="1500">200</h2>
+                                    <p class="count-text ">Cup Of Coffee</p>
+                                </div>
+                            </div>
+                            <!-- START SINGLE COUNTER-->
+                            <div class="col-lg-3 col-md-3 col-sm-3">
+                                <div class="counter wow fadeInUp">
+                                    <i class="fa fa-bullhorn fa-2x"></i>
+                                    <h2 class="timer count-title" id="count-number4" data-to="875" data-speed="1500">100</h2>
+                                    <p class="count-text ">Subscribers</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+        <!-- END MILESTONE WORSK SECTION -->
+        <!-- BEGAIN FORTFOLIO WORSK SECTION -->
+        <div class="row">
+            <div class="portfolio_area">
+                <!-- BEGAIN PORTFOLIO HEADER -->
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="container">
+                            <div class="heading">
+                                <h2 class="wow fadeInLeftBig">Entrepreneurship Quotes</h2>
+                                <p>Normal linear note taking and writing will put you into a semi-hypnotic trance, while Mind Mapping will greatly enhance your left and right brain cognitive skills.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- END PORTFOLIO HEADER -->
+                <!-- BEGAIN PORTFOLIO GALLERY -->
+                <!-- END PORTFOLIO GALLERY -->
+            </div>
+        </div>
+        <!-- END FORTFOLIO WORSK SECTION -->
+    </section>

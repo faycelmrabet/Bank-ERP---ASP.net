@@ -1,0 +1,132 @@
+﻿@model Data.Models.contrat
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layoutfront.cshtml";
+}
+<div id="navbar" class="navbar-collapse collapse">
+    <ul id="top-menu" class="nav navbar-nav navbar-right main_nav">
+        <li><a href="@Url.Content("~/Home")">Home</a></li>
+        <li><a href="@Url.Content("~/TrainingSession")">Training Session</a></li>
+        <li><a href="@Url.Content("~/Training")">Training</a></li>
+        <li><a href="@Url.Content("~/Trainer")">Trainer</a></li>
+        <li><a href="@Url.Content("~/SendMail")">Mail</a></li>
+        <li><a href="@Url.Content("~/SendSms/sms")">Sms</a></li>
+        <li><a href="@Url.Content("~/Materiel")">Material</a></li>
+        <li><a href="@Url.Content("~/Chart")">Statistique&Reporting</a></li>
+        <li class="active"><a href="@Url.Content("~/Contrat")">Contracts</a></li>
+        <li><a href="@Url.Content("~/Offre")">Offer</a></li>
+        <li><a href="@Url.Content("~/Employee")">Employee</a></li>
+        <li><a href="@Url.Content("~/Candidature")">Candidacy</a></li>
+        @Html.Partial("_LoginPartial")
+
+    </ul>
+</div><!--/.nav-collapse -->
+                </div>
+            </nav>
+        </div>
+<!-- END MENU -->
+<!-- BEGIN SLIDER AREA-->
+        </header>
+<!--=========== End HEADER SECTION ================-->
+<!--=========== BEGIN ABOUT SECTION ================-->
+<div style="margin-top:50px">
+    <section id="blog" style="height:1000px;background-image:url(/Content/frontoffice/img/contrat.jpg);background-size:cover">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <!-- START BLOG HEADING -->
+                    <div class="heading">
+                        <h2 class="wow fadeInLeftBig">Contract Details</h2>
+
+                    </div>
+                </div>
+
+
+                <div>
+
+                    <hr />
+                    <dl class="dl-horizontal">
+
+
+                        <dt>
+                            <label>Last Name</label>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.nom)
+                        </dd>
+
+                        <dt>
+                            <label>First Name</label>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.prenom)
+                        </dd>
+
+                        <dt>
+                            <label>Phone</label>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.N_GSM)
+                        </dd>
+
+                        <dt>
+                            <label>Mobile Phone</label>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.telephone)
+                        </dd>
+
+                        <dt>
+                            <label>Zip Code</label>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.codePostal)
+                        </dd>
+
+                        <dt>
+                            <label>City</label>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.ville)
+                        </dd>
+
+                        <dt>
+                            <label>Country</label>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Pays)
+                        </dd>
+
+                        <dt>
+                            <label>Registration Number</label>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.matricule)
+                        </dd>
+                        <dt>
+                            <label>Bank Branch</label>
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Banque)
+                        </dd>
+                    </dl>
+                </div>
+                <p>
+                    @Html.ActionLink("Edit", "Edit", new { id = Model.idContrat }) |
+                    @Html.ActionLink("Back to List", "Index")
+                <p>@Html.ActionLink("Export PDF", "ExportPDF")</p>
+                </p>
+            </div>
+        </div>
+
+    </section>

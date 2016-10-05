@@ -1,0 +1,355 @@
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\obj\Debug\GUITrainingBank.csprojResolveAssemblyReference.cache
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\csc.exe
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\vbc.exe
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\VBCSCompiler.exe
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\GUITrainingBank.dll.config
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\GUITrainingBank.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\GUITrainingBank.pdb
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Antlr3.Runtime.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Data.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Domain.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\EntityFramework.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\EntityFramework.SqlServer.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.Data.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.Data.Entity.EF6.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.Fabric.Plugin.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.Web.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Newtonsoft.Json.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Owin.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Service.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Helpers.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Mvc.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Optimization.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Razor.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Razor.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\WebGrease.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Data.pdb
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Domain.pdb
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Service.pdb
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Helpers.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Mvc.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Optimization.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Razor.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Razor.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Antlr3.Runtime.pdb
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Newtonsoft.Json.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\EntityFramework.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\EntityFramework.SqlServer.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\obj\Debug\GUITrainingBank.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\obj\Debug\GUITrainingBank.pdb
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\WebActivatorEx.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.AspNet.Identity.dll
+C:\Users\ji\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.AspNet.Identity.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\csc.exe
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\vbc.exe
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\VBCSCompiler.exe
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\GUITrainingBank.dll.config
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\GUITrainingBank.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\GUITrainingBank.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Antlr3.Runtime.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Data.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Domain.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\EntityFramework.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\EntityFramework.SqlServer.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Core.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Drive.v2.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.PlatformServices.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\log4net.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.AspNet.Identity.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.Data.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.Fabric.Plugin.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.Web.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Newtonsoft.Json.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Owin.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\PayPal.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\PayPalCoreSDK.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Rotativa.Core.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Rotativa.MVC.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Service.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Net.Http.Extensions.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Net.Http.Primitives.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Helpers.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Mvc.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Optimization.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Razor.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Razor.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\WebActivatorEx.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\WebGrease.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Zlib.Portable.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Data.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Domain.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Service.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Core.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Core.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Drive.v2.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Drive.v2.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.PlatformServices.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Google.Apis.PlatformServices.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\log4net.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\MySql.AspNet.Identity.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Newtonsoft.Json.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\PayPal.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Net.Http.Extensions.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Net.Http.Primitives.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Helpers.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Mvc.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Optimization.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.Razor.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Razor.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Antlr3.Runtime.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Zlib.Portable.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\EntityFramework.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\EntityFramework.SqlServer.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\obj\Debug\GUITrainingBank.csproj.App.config
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\obj\Debug\GUITrainingBank.csprojResolveAssemblyReference.cache
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\obj\Debug\GUITrainingBank.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\GUITrainingBank\obj\Debug\GUITrainingBank.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\csc.exe
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\System.Collections.Immutable.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\System.Reflection.Metadata.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\vbc.exe
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\VBCSCompiler.exe
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\roslyn\VBCSCompiler.exe.config
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\GUITrainingBank.dll.config
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\GUITrainingBank.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\GUITrainingBank.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Antlr3.Runtime.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Data.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Domain.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\EntityFramework.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\EntityFramework.SqlServer.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.PlatformServices.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Core.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Drive.v2.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.PlatformServices.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\log4net.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Core.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Cookies.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Facebook.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Google.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.OAuth.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Twitter.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.ServiceLocation.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Mvc.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.Extensions.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Web.Infrastructure.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\MySql.AspNet.Identity.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\MySql.Data.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\MySql.Data.Entity.EF6.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\MySql.Fabric.Plugin.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\MySql.Web.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Newtonsoft.Json.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Owin.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\PayPal.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\PayPalCoreSDK.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Rotativa.Core.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Rotativa.MVC.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Service.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Net.Http.Extensions.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Net.Http.Primitives.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.Helpers.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.Mvc.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.Optimization.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.Razor.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Deployment.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Razor.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\WebActivatorEx.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\WebGrease.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Zlib.Portable.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Data.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Domain.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Service.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.PlatformServices.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Auth.PlatformServices.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Core.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Core.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Drive.v2.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.Drive.v2.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.PlatformServices.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Google.Apis.PlatformServices.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\log4net.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.ServiceLocation.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.Mvc.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.Extensions.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\MySql.AspNet.Identity.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Newtonsoft.Json.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\PayPal.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Net.Http.Extensions.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Net.Http.Primitives.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.Helpers.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.Mvc.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.Optimization.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.Razor.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Deployment.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\System.Web.WebPages.Razor.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Antlr3.Runtime.pdb
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Zlib.Portable.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\EntityFramework.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\EntityFramework.SqlServer.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Core.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Facebook.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Cookies.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.OAuth.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Google.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.Twitter.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\semer\pi\GUITrainingBank\GUITrainingBank\obj\Debug\GUITrainingBank.csproj.App.config
+E:\semer\pi\GUITrainingBank\GUITrainingBank\obj\Debug\GUITrainingBank.csprojResolveAssemblyReference.cache
+E:\semer\pi\GUITrainingBank\GUITrainingBank\obj\Debug\GUITrainingBank.dll
+E:\semer\pi\GUITrainingBank\GUITrainingBank\obj\Debug\GUITrainingBank.pdb

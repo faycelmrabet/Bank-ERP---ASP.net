@@ -1,0 +1,81 @@
+C:\Users\ji\Desktop\GUITrainingBank\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\Service.dll.config
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\Service.dll
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\Service.pdb
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\Data.dll
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\Domain.dll
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\EntityFramework.dll
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\Data.pdb
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\Domain.pdb
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\EntityFramework.xml
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ji\Desktop\GUITrainingBank\Service\obj\Debug\Service.dll
+C:\Users\ji\Desktop\GUITrainingBank\Service\obj\Debug\Service.pdb
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\MySql.AspNet.Identity.dll
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\MySql.Data.dll
+C:\Users\ji\Desktop\GUITrainingBank\Service\bin\Debug\MySql.AspNet.Identity.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Service.dll.config
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Service.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Service.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Data.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Domain.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\EntityFramework.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\log4net.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\MySql.AspNet.Identity.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\MySql.Data.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\PayPal.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Rotativa.Core.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Rotativa.MVC.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Data.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Domain.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\EntityFramework.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\log4net.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\MySql.AspNet.Identity.pdb
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\bin\Debug\PayPal.xml
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\obj\Debug\Service.dll
+C:\Users\Faycel M'rabet\Desktop\GUITrainingBank\Service\obj\Debug\Service.pdb
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Service.dll.config
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Service.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Service.pdb
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Data.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Domain.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\EntityFramework.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\EntityFramework.SqlServer.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\log4net.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\MySql.AspNet.Identity.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\MySql.Data.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Newtonsoft.Json.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\PayPal.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Rotativa.Core.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Rotativa.MVC.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\System.Web.Mvc.dll
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Data.pdb
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Domain.pdb
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\EntityFramework.xml
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\EntityFramework.SqlServer.xml
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\log4net.xml
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\MySql.AspNet.Identity.pdb
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\Newtonsoft.Json.xml
+E:\semer\pi\GUITrainingBank\Service\bin\Debug\PayPal.xml
+E:\semer\pi\GUITrainingBank\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\semer\pi\GUITrainingBank\Service\obj\Debug\Service.dll
+E:\semer\pi\GUITrainingBank\Service\obj\Debug\Service.pdb

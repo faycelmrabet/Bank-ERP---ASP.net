@@ -1,0 +1,77 @@
+﻿@model Data.Models.offre
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layoutfront.cshtml";
+}
+<div id="navbar" class="navbar-collapse collapse">
+    <ul id="top-menu" class="nav navbar-nav navbar-right main_nav">
+        <li><a href="@Url.Content("~/Home")">Home</a></li>
+        <li><a href="@Url.Content("~/TrainingSession")">Training Session</a></li>
+        <li><a href="@Url.Content("~/Training")">Training</a></li>
+        <li><a href="@Url.Content("~/Trainer")">Trainer</a></li>
+        <li><a href="@Url.Content("~/SendMail")">Mail</a></li>
+        <li><a href="@Url.Content("~/SendSms/sms")">Sms</a></li>
+        <li><a href="@Url.Content("~/Materiel")">Material</a></li>
+        <li><a href="@Url.Content("~/Chart")">Statistique&Reporting</a></li>
+        <li><a href="@Url.Content("~/Contrat")">Contracts</a></li>
+        <li class="active"><a href="@Url.Content("~/Offre")">Offer</a></li>
+        <li><a href="@Url.Content("~/Employee")">Employee</a></li>
+        <li><a href="@Url.Content("~/Candidature")">Candidacy</a></li>
+        @Html.Partial("_LoginPartial")
+
+    </ul>
+</div><!--/.nav-collapse -->
+                </div>
+            </nav>
+        </div>
+<!-- END MENU -->
+<!-- BEGIN SLIDER AREA-->
+        </header>
+<!--=========== End HEADER SECTION ================-->
+<!--=========== BEGIN ABOUT SECTION ================-->
+<div style="margin-top:50px">
+
+
+    <section id="pricing">
+        <div class="container">
+            <div class="row col-lg-12 col-md-12">
+                <!-- START ABOUT HEADING -->
+                <div class="heading">
+                    <h2 class="wow fadeInLeftBig">Offer Details</h2>
+
+                </div>
+            </div>
+
+
+            <div class="row col-lg-12 col-md-12" style="margin-left:250px">
+                <div class="pricing_area">
+                    <div class="row">
+                        <!-- BEGAIN BASIC PRICE TABLE -->
+
+
+                        <div class="col-lg-3 col-md-3 col-sm-3">
+                            <div class="single_price wow fadeInUp" style="width:500px;">
+
+                                <h3>
+                                    @Html.DisplayNameFor(model => model.nomOf):
+                                    @Html.DisplayFor(model => model.nomOf)
+                                </h3>
+                                <div class="price">
+                                    <h3>
+                                        @Html.DisplayNameFor(model => model.descOf):
+                                        @Html.DisplayFor(model => model.descOf)
+                                    </h3>
+
+                                </div>
+
+                                <a href="#">@Html.ActionLink("Edit", "Edit", new { id = Model.idoffre }, new { @class = "price_btn" })</a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    </section>
