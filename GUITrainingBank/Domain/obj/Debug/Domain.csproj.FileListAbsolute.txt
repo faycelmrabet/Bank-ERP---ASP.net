@@ -67,3 +67,4 @@ E:\semer\pi\GUITrainingBank\Domain\bin\Debug\PayPal.xml
 E:\semer\pi\GUITrainingBank\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 E:\semer\pi\GUITrainingBank\Domain\obj\Debug\Domain.dll
 E:\semer\pi\GUITrainingBank\Domain\obj\Debug\Domain.pdb
+C:\Users\FaycelMrabet\Desktop\GitHub\Bank - C#\GUITrainingBank\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

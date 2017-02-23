@@ -88,3 +88,6 @@ E:\semer\pi\GUITrainingBank\Data\obj\Debug\Data.Migrations.Identity.resources
 E:\semer\pi\GUITrainingBank\Data\obj\Debug\Data.csproj.GenerateResource.Cache
 E:\semer\pi\GUITrainingBank\Data\obj\Debug\Data.dll
 E:\semer\pi\GUITrainingBank\Data\obj\Debug\Data.pdb
+C:\Users\FaycelMrabet\Desktop\GitHub\Bank - C#\GUITrainingBank\Data\obj\Debug\Data.Migrations.Initial.resources
+C:\Users\FaycelMrabet\Desktop\GitHub\Bank - C#\GUITrainingBank\Data\obj\Debug\Data.Migrations.Identity.resources
+C:\Users\FaycelMrabet\Desktop\GitHub\Bank - C#\GUITrainingBank\Data\obj\Debug\Data.csproj.GenerateResource.Cache
